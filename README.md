@@ -1,5 +1,5 @@
 # Food-Factory-Website
-
+Food Factpry website is a functional frontend website of a food Website which has unique navbar and UI design. It is a concept of a food restaurant website.
 <br>
 It is responsive on any screen devices so you can play it any device you wish :)
 <hr>
