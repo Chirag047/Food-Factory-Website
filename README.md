@@ -2,7 +2,7 @@
 Food Factory website is a functional frontend website of a food Website which has unique navbar and UI design. It is a concept of a food restaurant website.
 <hr>
 
-## Working App can be found here
+## Working Web App can be found here
 
 https://food-factory-website.vercel.app/
 
