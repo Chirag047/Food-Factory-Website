@@ -14,7 +14,7 @@ https://food-factory-website.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots 
 
 <hr>
 
